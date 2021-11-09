@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @adityapandita97
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on Linkedln
+- 👋 Hi, I’m Aditya Pandita
+- 👀 I’m interested in Cloud Computing.
+- 🌱 I’m currently learning Cloud Architecture.
+- 💞️ I’m looking to collaborate on Linkedln: https://www.linkedin.com/in/aditya-pandita-1675a3128/
 - 📫 How to reach me adityapandita97@gmail.com
 
 <!---
